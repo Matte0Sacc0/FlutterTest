@@ -1,4 +1,0 @@
-#Thu Jul 22 15:50:30 CEST 2021
-base.0=C\:\\Users\\matte\\Desktop\\Flutter test\\wordpair_generator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
